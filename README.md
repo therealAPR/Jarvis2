@@ -1,7 +1,7 @@
-# IndianBot
+# Jarvis
 
-For any query or want to know how it works join
-# https://t.me/IndianArMyGiveaway
+For any query or want to know how to use it join
+# https://t.me/giveawaygods2
 
 ## FORK AT YOUR OWN RISK
 ### Installing
@@ -14,8 +14,8 @@ For any query or want to know how it works join
 
 Simply clone the repository and run the main file:
 ```sh
-git clone https://github.com/indianbhaiya/IndianBot
-cd Indianbot
+git clone https://github.com/prajaydevsys/Jarvis2
+cd Jarvis2
 virtualenv -p /usr/bin/python3 venv
 . ./venv/bin/activate
 pip install -r requirements.txt
