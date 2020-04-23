@@ -1,7 +1,7 @@
 """Emoji
 Available Commands:
 .np
-Credits to @pureindialover
+Credits to @therealApr
 """
 
 from telethon import events
